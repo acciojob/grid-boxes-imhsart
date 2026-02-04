@@ -7,7 +7,7 @@
 #grid{
 	margin: 10px;
 	display: grid;
-	grid-template-rows:124px 124px 124px 124px 124px 124px;
+	grid-template-rows:124px 124px 124px 124px 124px;
 	grid-template-columns: 242.5px 242.5px 242.5px 242.5px;
 	grid-gap: 10px 10px;
 }
